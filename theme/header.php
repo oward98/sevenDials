@@ -122,10 +122,6 @@
 						</ul>
 						</div>
 					</div>
-					<div class="nav-bottom-image">
-						<?php $image = get_field('navigation_image', 'option');?>
-						<img src="<?php echo $image['url'];?>">
-					</div>
 				</div>
 			</div>
 			<div class="nav-overlay" hidden>
