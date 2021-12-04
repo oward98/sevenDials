@@ -1,0 +1,24 @@
+{
+  "name": "sd-theme",
+  "version": "1.0.0",
+  "description": "wordpress theme for the seven dials renaissance study online edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oward98/sd.git"
+  },
+  "author": "Owen Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oward98/sd/issues"
+  },
+  "homepage": "https://github.com/oward98/sd#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "sync-directory": "^4.0.7"
+  }
+}

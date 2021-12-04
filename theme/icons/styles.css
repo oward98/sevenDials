@@ -1,0 +1,121 @@
+/*
+ * Icon Font Website-Basics
+ * Made with love by Icons8 [ https://icons8.com/ ] using FontCustom [ https://github.com/FontCustom/fontcustom ]
+ *
+ * Contacts:
+ *    [ https://icons8.com/contact ]
+ *
+ * Follow Icon8 on
+ *    Twitter [ https://twitter.com/icons_8 ]
+ *    Facebook [ https://www.facebook.com/Icons8 ]
+ *    Google+ [ https://plus.google.com/+Icons8 ]
+ *    GitHub [ https://github.com/icons8 ]
+ */
+
+
+@font-face {
+  font-family: "Website-Basics";
+  src: url("./fonts/Website-Basics_5cf8599af1ca19dc26757f5d827df739.eot");
+  src: url("./fonts/Website-Basics_5cf8599af1ca19dc26757f5d827df739.eot?#iefix") format("embedded-opentype"),
+       url("./fonts/Website-Basics_5cf8599af1ca19dc26757f5d827df739.woff2") format("woff2"),
+       url("./fonts/Website-Basics_5cf8599af1ca19dc26757f5d827df739.woff") format("woff"),
+       url("./fonts/Website-Basics_5cf8599af1ca19dc26757f5d827df739.ttf") format("truetype"),
+       url("./fonts/Website-Basics_5cf8599af1ca19dc26757f5d827df739.svg#Website-Basics") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Website-Basics";
+    src: url("./fonts/Website-Basics_5cf8599af1ca19dc26757f5d827df739.svg#Website-Basics") format("svg");
+  }
+}
+
+[data-icons8]:before { content: attr(data-icons8); }
+
+[data-icons8]:before,
+.icons8-attention:before,
+.icons8-back:before,
+.icons8-cancel:before,
+.icons8-checked-checkbox-2:before,
+.icons8-checkmark:before,
+.icons8-collapse-arrow:before,
+.icons8-delete:before,
+.icons8-document:before,
+.icons8-download:before,
+.icons8-expand-arrow:before,
+.icons8-external-link:before,
+.icons8-facebook:before,
+.icons8-file:before,
+.icons8-folder:before,
+.icons8-forward:before,
+.icons8-google-plus:before,
+.icons8-home:before,
+.icons8-image-file:before,
+.icons8-info:before,
+.icons8-linkedin:before,
+.icons8-menu:before,
+.icons8-message:before,
+.icons8-minus:before,
+.icons8-picture:before,
+.icons8-pinterest:before,
+.icons8-plus:before,
+.icons8-restart:before,
+.icons8-search:before,
+.icons8-share:before,
+.icons8-sort-down:before,
+.icons8-sort-left:before,
+.icons8-sort-right:before,
+.icons8-sort-up:before,
+.icons8-tumblr:before,
+.icons8-twitter:before {
+  display: inline-block;
+  font-family: "Website-Basics";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icons8-attention:before { content: "\f11c"; }
+.icons8-back:before { content: "\f106"; }
+.icons8-cancel:before { content: "\f116"; }
+.icons8-checked-checkbox-2:before { content: "\f11a"; }
+.icons8-checkmark:before { content: "\f119"; }
+.icons8-collapse-arrow:before { content: "\f108"; }
+.icons8-delete:before { content: "\f109"; }
+.icons8-document:before { content: "\f11e"; }
+.icons8-download:before { content: "\f10d"; }
+.icons8-expand-arrow:before { content: "\f107"; }
+.icons8-external-link:before { content: "\f11b"; }
+.icons8-facebook:before { content: "\f110"; }
+.icons8-file:before { content: "\f120"; }
+.icons8-folder:before { content: "\f121"; }
+.icons8-forward:before { content: "\f105"; }
+.icons8-google-plus:before { content: "\f113"; }
+.icons8-home:before { content: "\f117"; }
+.icons8-image-file:before { content: "\f11d"; }
+.icons8-info:before { content: "\f118"; }
+.icons8-linkedin:before { content: "\f114"; }
+.icons8-menu:before { content: "\f100"; }
+.icons8-message:before { content: "\f10e"; }
+.icons8-minus:before { content: "\f104"; }
+.icons8-picture:before { content: "\f11f"; }
+.icons8-pinterest:before { content: "\f112"; }
+.icons8-plus:before { content: "\f103"; }
+.icons8-restart:before { content: "\f122"; }
+.icons8-search:before { content: "\f10a"; }
+.icons8-share:before { content: "\f10f"; }
+.icons8-sort-down:before { content: "\f101"; }
+.icons8-sort-left:before { content: "\f10c"; }
+.icons8-sort-right:before { content: "\f10b"; }
+.icons8-sort-up:before { content: "\f102"; }
+.icons8-tumblr:before { content: "\f115"; }
+.icons8-twitter:before { content: "\f111"; }
